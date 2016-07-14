@@ -30,9 +30,3 @@ MIT © [Rajkumarui](index.html)
 
 [npm-image]: https://badge.fury.io/js/generator-ui-angular.svg
 [npm-url]: https://npmjs.org/package/generator-ui-angular
-[travis-image]: https://travis-ci.org/Rajkumarui/generator-ui-angular.svg?branch=master
-[travis-url]: https://travis-ci.org/Rajkumarui/generator-ui-angular
-[daviddm-image]: https://david-dm.org/Rajkumarui/generator-ui-angular.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/Rajkumarui/generator-ui-angular
-[coveralls-image]: https://coveralls.io/repos/Rajkumarui/generator-ui-angular/badge.svg
-[coveralls-url]: https://coveralls.io/r/Rajkumarui/generator-ui-angular
