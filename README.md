@@ -1,4 +1,4 @@
-# generator-ui-angular [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-ui-angular [![NPM version][npm-image]][npm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > This contains total front-end env componants like angularjs, bootstrap, sass etc..
 
 ## Installation
