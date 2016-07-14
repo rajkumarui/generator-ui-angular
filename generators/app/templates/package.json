@@ -1,0 +1,27 @@
+{
+  "name": "<%= name %>",
+  "private": true,
+  "version": "1.0.0",
+  "description": "this project is to test gulp envinorment",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "del": "^2.2.0",
+    "express": "^4.10.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^3.2.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "merge-stream": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1", 
+    "gulp-sass": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajkumar",
+  "license": "MIT"
+}
