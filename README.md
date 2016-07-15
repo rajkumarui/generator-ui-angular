@@ -5,7 +5,7 @@
 
 First, install [Yeoman](http://yeoman.io) and generator-ui-angular using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
-[yeoman-img]
+[![yeoman-img](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/images/yeoman.png)]
 
 ```bash
 npm install -g yo
@@ -32,4 +32,3 @@ MIT © [Rajkumarui](index.html)
 
 [npm-image]: https://badge.fury.io/js/generator-ui-angular.svg
 [npm-url]: https://npmjs.org/package/generator-ui-angular
-[yeoman-img]: https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/images/yeoman.png
