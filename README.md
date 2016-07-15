@@ -1,5 +1,5 @@
 # ui-angular [![NPM version][npm-image]][npm-url]
-> This contains total front-end env componants like angularjs, bootstrap, sass etc..
+> This generator allows you to setup project in both angular as well as jquery farmework with the best Developer Experience out of the box! 
 
 ## Installation
 
