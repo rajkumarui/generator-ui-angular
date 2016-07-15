@@ -1,5 +1,15 @@
 # ui-angular [![NPM version][npm-image]][npm-url]
-> This generator allows you to setup project in both angular as well as jquery farmework with the best Developer Experience out of the box! 
+> This generator allows you to setup project in both 'Angular' as well as 'Jquery' farmework with the best Developer Experience out of the box! 
+
+>No matter what framework you choose, ui-generator give you the best configration and project setup.
+
+>This generator uses Gulp as a task manager and ask you questions to choose the following featuers you need:
+- AngularJs
+- jQuery
+- Sass
+- Bootstrap
+- Angular required features like angular-bootstrap, angular-ui-router etc...
+- For font icon you can choose 'Font-Awesome'
 
 ## Installation
 
