@@ -5,7 +5,7 @@
 
 First, install [Yeoman](http://yeoman.io) and generator-ui-angular using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
-[![yeoman-img]]
+[yeoman-img]
 
 ```bash
 npm install -g yo
