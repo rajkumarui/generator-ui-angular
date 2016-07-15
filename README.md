@@ -27,7 +27,7 @@ yo ui-angular
 
 ## License
 
-MIT © [Rajkumarui](index.html)
+MIT © [Rajkumarui](https://rajkumarui.github.io/)
 
 
 [npm-image]: https://badge.fury.io/js/generator-ui-angular.svg
