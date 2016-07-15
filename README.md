@@ -1,7 +1,7 @@
 # ui-angular [![NPM version][npm-image]][npm-url]
 > This generator allows you to setup project in both 'Angular' as well as 'Jquery' farmework with the best Developer Experience out of the box! 
 
->No matter what framework you choose, ui-generator give you the best configration and project setup.
+>No matter what framework you choose, ui-generator gives you the best configration and project setup.
 
 >This generator uses Gulp as a task manager and ask you questions to choose the following featuers you need:
 - AngularJs
