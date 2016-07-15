@@ -1,7 +1,7 @@
 {
   "name": "generator-ui-angular",
   "version": "1.0.6",
-  "description": "This contains total front-end env componants like angularjs, bootstrap, sass etc..",
+  "description": "This Yeoman 'ui-angular' generator allows you to start any Webapp with the best Developer Experience",
   "homepage": "https://github.com/rajkumarui/generator-ui-angular",
   "author": {
     "name": "rajkumarui",
