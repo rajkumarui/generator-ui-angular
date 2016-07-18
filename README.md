@@ -48,6 +48,15 @@ You can setup a simple web application with jquery or you can also setup a compl
 [![jquery](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/jquery.png)](https://jquery.com/)
 [![modernizr](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/modernizr.png)](https://modernizr.com/)
 [![bootstrap](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/bootstrap.png)](http://getbootstrap.com/)
+[![sass](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/sass.png)](http://sass-lang.com/)
+
+### Task Runner
+[![gulp](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/gulp.png)](http://gulpjs.com/)
+
+### Package Manager
+[![npm](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/Npm.png)](https://www.npmjs.com/)
+[![bower](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/bower.png)](https://bower.io/)
+
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
