@@ -37,6 +37,7 @@ You can setup a simple web application with jquery or you can also setup a compl
 ## Generator Features
 [![angularjs](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/angular.png)](https://angularjs.org/)
 [![uibootstrap](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/ui-bootstrap.png)](https://angular-ui.github.io/bootstrap/)
+
 [![jquery](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/jquery.png)](https://jquery.com/)
 [![modernizr](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/modernizr.png)](https://modernizr.com/)
 [![bootstrap](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/bootstrap.png)](http://getbootstrap.com/)
