@@ -28,6 +28,18 @@ Then generate your new project:
 yo ui-angular
 ```
 
+# Generator UI Angular Infrastructure
+
+This generator help you to setup project with angular as well as jquery.
+
+You can setup a simple web application with jquery or you can also setup a complete fornt-end MVC and MVVM architecture with Angularjs. 
+
+## Generator Features
+[![angularjs](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/angular.png)](https://angularjs.org/)
+[![uibootstrap](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/ui-bootstrap.png)](https://angular-ui.github.io/bootstrap/)
+[![jquery](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/jquery.png)](https://jquery.com/)
+[![modernizr](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/modernizr.png)](https://modernizr.com/)
+[![bootstrap](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/bootstrap.png)](http://getbootstrap.com/)
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
