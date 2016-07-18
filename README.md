@@ -15,6 +15,8 @@
 
 First, install [Yeoman](http://yeoman.io) and generator-ui-angular using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
+[![yeoman](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/yeoman.png)](http://yeoman.io/)
+
 ```bash
 npm install -g yo
 npm install -g generator-ui-angular
@@ -40,21 +42,20 @@ This generator help you to setup project with angular as well as jquery.
 You can setup a simple web application with jquery or you can also setup a complete fornt-end MVC and MVVM architecture with Angularjs. 
 
 ## Generator Features
-- Angularjs
-- Angular UI Bootstrap
-- UI Router
+[![angularjs](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/angular.png)](https://angularjs.org/)
+[![uibootstrap](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/ui-bootstrap.png)](https://angular-ui.github.io/bootstrap/)
 
-- jQuery
-- Mpdernizr
-- Bootstrap
-- Sass
+[![jquery](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/jquery.png)](https://jquery.com/)
+[![modernizr](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/modernizr.png)](https://modernizr.com/)
+[![bootstrap](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/bootstrap.png)](http://getbootstrap.com/)
+[![sass](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/sass.png)](http://sass-lang.com/)
 
 ### Task Runner
-- Gulp
+[![gulp](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/gulp.png)](http://gulpjs.com/)
 
 ### Package Manager
-- NPM
-- Bower
+[![npm](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/Npm.png)](https://www.npmjs.com/)
+[![bower](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/bower.png)](https://bower.io/)
 
 ## Getting To Know Yeoman
 
@@ -64,8 +65,8 @@ You can setup a simple web application with jquery or you can also setup a compl
  * Feel free to [learn more about Yeoman](http://yeoman.io/).
 
 
-### Developed by 
-##### Rajkumar
+### Developed by Rajkumar
+[![bower](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/rajkumarui.png)](https://rajkumarui.github.io/) 
 
 ## License
 
