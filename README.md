@@ -65,7 +65,7 @@ You can setup a simple web application with jquery or you can also setup a compl
  * Feel free to [learn more about Yeoman](http://yeoman.io/).
 
 ## Developed by
-### Rajkumar
+[![bower](https://github.com/RajkumarUI/rajkumarui.github.io/blob/master/assets/img/rajkumarui.png)](https://rajkumarui.github.io/) ### Rajkumar
 
 ## License
 
