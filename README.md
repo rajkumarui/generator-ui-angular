@@ -29,7 +29,7 @@ npm install -g generator-ui-angular
 mkdir new-project && cd new-project
 ```
 
-Then generate your new project:
+##### Then generate your new project:
 
 ```bash
 yo ui-angular
@@ -63,6 +63,9 @@ You can setup a simple web application with jquery or you can also setup a compl
  * Yeoman is a person with feelings and opinions, but is very easy to work with.
  * Yeoman can be too opinionated at times but is easily convinced not to be.
  * Feel free to [learn more about Yeoman](http://yeoman.io/).
+
+## Developed by
+### Rajkumar
 
 ## License
 
