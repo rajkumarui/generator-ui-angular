@@ -22,6 +22,13 @@ npm install -g yo
 npm install -g generator-ui-angular
 ```
 
+### Run
+
+##### Create a new directory, and go into:
+```
+mkdir new-project && cd new-project
+```
+
 Then generate your new project:
 
 ```bash
