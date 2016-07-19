@@ -16,7 +16,7 @@ var UIGenerator = yeoman.generators.Base.extend({
 
     var prompts = [{
       name: 'name',
-      message: 'What is your app\'s name?',
+      message: 'What is your app\'s name? (No space between app\'s name instead use Hyphen symbol)',
       default: this.appname
     },
     {
@@ -134,17 +134,24 @@ var UIGenerator = yeoman.generators.Base.extend({
           this.fs.copyTpl(
             this.templatePath('app/index.html'),
             this.destinationPath('app/index.html'),{
-                  name: this.name
+                  name: this.name,
+                  includeAngular: this.includeAngular
             }
           );
           //app.js
+          if (this.includeAngular) {
           this.fs.copy(
             this.templatePath('app/app.js'),
             this.destinationPath('app/app.js'));
+          } else{
+            this.fs.copy(
+            this.templatePath('app/_app.js'),
+            this.destinationPath('app/app.js'));
+          }
           // styles
           this.fs.copy(
-            this.templatePath('app/styles/constant.sass'),
-            this.destinationPath('app/styles/constant.sass'));
+            this.templatePath('app/styles/constant.scss'),
+            this.destinationPath('app/styles/constant.scss'));
           // Views
           this.fs.copy(
             this.templatePath('app/views/readme.txt'),

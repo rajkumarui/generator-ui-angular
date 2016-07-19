@@ -86,7 +86,7 @@ gulp.task('scripts', function() {
 // Styles
 gulp.task('styles', function() {
   gulp.src(appStyles)
-  <% if (includeSass) { -%>.pipe(sass())<% } -%>
+    <% if (includeSass) { -%>.pipe(sass())<% } -%>
     .pipe(minifycss())
     .pipe(concat('app.css'))
     .pipe(gulp.dest('www/assets/styles/'))
