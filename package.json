@@ -1,6 +1,6 @@
 {
   "name": "generator-ui-angular",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "This Yeoman 'ui-angular' generator allows you to start any Webapp with the best Developer Experience",
   "homepage": "https://github.com/rajkumarui/generator-ui-angular",
   "author": {

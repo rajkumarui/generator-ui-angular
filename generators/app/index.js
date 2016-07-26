@@ -11,7 +11,7 @@ var UIGenerator = yeoman.generators.Base.extend({
      var done = this.async();
     // Have Yeoman greet the user.
     this.log(yosay(
-      'Welcome to the ' + chalk.red('generator-ui-angular') + ' generator! Out of the box I include HTML5 Boilerplate, AngularJS, jQuery, Sass, Bootstrap and with gulp task runner '
+      'Welcome to the ' + chalk.yellow('generator-ui-angular') + ' generator! Out of the box I include HTML5 Boilerplate, AngularJS, jQuery, Sass, Bootstrap and with gulp task runner '
     ));
 
     var prompts = [{
