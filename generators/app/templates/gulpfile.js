@@ -38,7 +38,7 @@ var appImages = [
 ];
 
 var appviews = [
-  'app/view/**/*.html'
+  'app/views/**/*.html'
 ];
 
 var appFonts = [
@@ -138,6 +138,8 @@ gulp.task('watch', ['default'], function() {
   gulp.watch(vendorScripts, ['vendors']);
   // Watch .scss files
   gulp.watch('app/styles/**/*.scss', ['styles']);
+   // Watch views files
+  gulp.watch(appviews, ['views']);
 
   // Create LiveReload server
   livereload.listen();

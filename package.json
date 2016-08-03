@@ -1,10 +1,10 @@
 {
   "name": "generator-ui-angular",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "This Yeoman 'ui-angular' generator allows you to start any Webapp with the best Developer Experience",
   "homepage": "https://github.com/rajkumarui/generator-ui-angular",
   "author": {
-    "name": "Rajkumarui",
+    "name": "rajkumarui",
     "email": "rajkumar2achieve@gmail.com",
     "url": "https://github.com/rajkumarui"
   },
@@ -15,18 +15,18 @@
   "keywords": [
     "yeoman-generator",
     "font-end-generator",
-    "ui-generator ",
+    "ui-generator",
     "scaffold",
     "generator",
     "framework",
     "mvc",
-    "phaser",
+    "app",
     "gulp",
     "requirejs",
     "angular",
     "webapp",
     "webapp scaffold",
-    "sevops",
+    "component",
     "devops tool"
   ],
   "dependencies": {
